@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**JulianBuchner/JulianBuchner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mblaimsc/mblaimsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 <div>
 
   ## 📊 &nbsp;My activities
-  <a href="https://github.com/JulianBuchner">
-    <img width=450 height=170 align="center" alt="JulianBuchner" src="https://github-readme-stats.vercel.app/api?username=JulianBuchner&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/mblaimsc">
+    <img width=450 height=170 align="center" alt="mblaimsc" src="https://github-readme-stats.vercel.app/api?username=mblaimsc&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/JulianBuchner">
-    <img align="center" alt="JulianBuchner" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianBuchner&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/mblaimsc">
+    <img align="center" alt="mblaimsc" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblaimsc&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
@@ -39,5 +39,5 @@ Here are some ideas to get you started:
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/JulianBuchner/count.svg" />  
+  <img src="https://profile-counter.glitch.me/mblaimsc/count.svg" />  
 </p>
